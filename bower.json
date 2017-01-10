@@ -1,0 +1,24 @@
+{
+  "name": "ng-table-bundle",
+  "description": "Simple table with sorting and filtering on AngularJS",
+  "version": "3.0.1",
+  "main": [
+    "ng-table.js",
+    "ng-table.css"
+  ],
+  "authors": [
+    "Vitalii Savchuk <esvit666@gmail.com>"
+  ],
+  "license": "BSD",
+  "keywords": [
+    "angular",
+    "table",
+    "data",
+    "grid",
+    "directive"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "angular": "^1.5.13"
+  }
+}
