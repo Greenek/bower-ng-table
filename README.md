@@ -11,13 +11,13 @@ Please file issues and pull requests against that repo.
 Install the current stable release:
 
 ```shell
-bower install ng-table-bundle --save
+bower install ng-table-bundle#~3 --save
 ```
 
 Or install the latest beta release:
 
 ```shell
-bower install ng-table-bundle@next --save
+bower install ng-table-bundle#latest --save
 ```
 
 ## Getting started
